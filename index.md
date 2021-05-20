@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/nkhlgeorge/nikhils_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Nikhil George. I am a Mechanical Engineer by training, a former McKinsey consultant, and currently a dual degree candidate at MIT Sloan and the Harvard Kennedy School.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an aspiring public interest technologist passionate about building products that use machine learning/ artificial intelligence to solve the world's most intractable problems. I would like to transition to a Product Management role at a fast-growing, mission-driven tech company after graduate school to pursue that passion.
+
+I like to think of myself as a bit of a global citizen, having lived and worked in India, the US, France, Australia, Kenya, Zambia, South Africa, Uganda, and Mozambique. My curiosity about the world inspires my passion for travel and meeting new people. I'm also an avid Crossfitter and an aspiring cocktail connoisseur.
 
 ### Markdown
 
